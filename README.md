@@ -1,3 +1,3 @@
 # LumpJump
 
-![splash](assets/background.png)
+![splash](assets/backgroundRedu.png)
