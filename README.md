@@ -20,7 +20,7 @@ LumpJump is a clone of doodlejump employing characters from the show Adventure T
 ## Technical Details
 * Mimicked natural snow movements in game background by using sine and cosine functions to model wind directions.
 
-![SnowCode](assets/snowcode.png)
+![snowCode](assets/snowcode.png)
 
 ## To-dos/future features
 
