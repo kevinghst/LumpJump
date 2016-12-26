@@ -10,3 +10,62 @@ canvas {
   margin-left: auto;
   margin-right: auto;
 }
+
+div,img,li,ul {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.name {
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  margin-top: 8px;
+  font-weight: bolder;
+  color: #CACCCE;
+  padding: 10px;
+  background-color: #000000;
+  border-radius: 5px;
+}
+
+.group:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+ul {
+  float: right;
+}
+
+li {
+  list-style: none;
+  float: left;
+  margin-left: 15px;
+}
+
+img {
+  height: 100%;
+  width: auto;
+  display: block;
+}
+
+a {
+  height: 50px;
+  width: 50px;
+  display: block;
+}
+
+.gitlink {
+  height: 65px;
+  width: 65px;
+}
+
+.linklink {
+  margin-top: 7px;
+}
