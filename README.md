@@ -16,3 +16,13 @@ LumpJump is a clone of doodlejump employing characters from the show Adventure T
 * Falling to the bottom of the screen results in death of character
 
 ![gamePlay](assets/gameplay.png)
+
+## Technical Details
+* Mimicked natural snow movements in game background by using sine and cosine functions to model wind directions.
+
+![SnowCode](assets/snowcode.png)
+
+## To-dos/future features
+
+* Include rockets that transport character to higher levels
+* Enable character to shoot at monsters
