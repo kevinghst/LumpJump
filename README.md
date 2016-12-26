@@ -14,3 +14,5 @@ LumpJump is a clone of doodlejump employing characters from the show Adventure T
 * Jumping on blue monster temporarily boosts jumping jump speed
 * Contacts with blue monster from the sides or bottom results in death of character
 * Falling to the bottom of the screen results in death of character
+
+![gamePlay](assets/gameplay.png)
