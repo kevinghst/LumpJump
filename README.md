@@ -2,7 +2,7 @@
 
 ![splash](assets/backgroundRed.png)
 
-### [Live!](https://www.wczhang.com/LumpJump)
+### [Live!](http://www.wczhang.com/LumpJump)
 
 ## Background
 
