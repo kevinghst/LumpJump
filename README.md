@@ -2,6 +2,8 @@
 
 ![splash](assets/backgroundRed.png)
 
+[Live](https://www.wczhang.com/LumpJump)
+
 ## Background
 
 LumpJump is a clone of doodlejump employing characters from the show Adventure Time. The game is written with JavaScript, HTML5-Canvas, and CSS. The goal of the game is for the main character (lumpy princess) to jump as high as possible. The game is over once the main character dies.
